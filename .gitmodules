@@ -1,0 +1,3 @@
+[submodule "LaVi-Bridge"]
+	path = LaVi-Bridge
+	url = https://huggingface.co/shihaozhao/LaVi-Bridge
